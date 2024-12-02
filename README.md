@@ -5,7 +5,7 @@ Then save the file and restart the Wio!
 
 Dependencies:
 CircuitPython Lib bundle 9.x
-The builtin text file. It is required for all games and apps for rendering.
+The builtin_font.vlw file. It is required for all games and apps for rendering.
 
 Upcoming:
 
