@@ -4,8 +4,8 @@ To upload programs to the Wio, copy the main code and paste it into the code.py 
 Then save the file and restart the Wio!
 
 Dependencies:
-CircuitPython Lib bundle 9.x
-The builtin_font.vlw file. It is required for all games and apps for rendering.
+CircuitPython Lib bundle 9.x, and the builtin_font.vlw file. 
+They are required for rendering and playing for all games and apps.
 
 Upcoming:
 
