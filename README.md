@@ -9,10 +9,8 @@ They are required for rendering and playing for all games and apps.
 
 Upcoming:
 
-Potassium:
-  
-  A file manager for the Wio, put it in the code.py file and put all other programs in the soon-to-be Programs folder. Potassium will allow you to have multuple programs on it,
-  and even run them simultaneously!
+Brick Baller. 
+A breakout game.
 
 Networker:
   
